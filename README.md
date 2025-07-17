@@ -1,1 +1,1 @@
-# Construção de um Script para automatizar varredura de redes no linux
+# Construção de um script python para automatizar varredura de redes no linux
