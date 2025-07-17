@@ -1,0 +1,1 @@
+# Construção de um Script para automatizar varredura de redes no linux
